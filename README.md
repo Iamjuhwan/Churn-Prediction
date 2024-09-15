@@ -34,4 +34,4 @@ Click [here](http://192.168.0.108:8501) to access the app.
 ### I'm open to suggestions, corrections, let me know what you think.
 
 
-
+https://churn-prediction-juwon.streamlit.app/
